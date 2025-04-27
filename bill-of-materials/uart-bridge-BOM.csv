@@ -1,0 +1,24 @@
+Category,Vendor,Item Number,Item Description,Quantity Per Package,Cost Per Package,Number of Packages,Item Total Cost,Comments,Useful Links,Part Link,"Symbol, Layout, & 3D Model Link"
+,,,,,,,,,,,
+Bluetooth,Digikey,1965-ESP32-PICO-MINI-02-N8R2CT-ND,RF TXRX MOD BT WIFI THCHAS MNT,1,$3.50,1,$3.50,"- ESP32 bluetooth module to serve as a serial bridge between mouse and laptop
+- perfect for our application- Sparkfun has a dev board doing exactly what we want",,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-PICO-MINI-02-N8R2/14317715,"https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-PICO-MINI-02-N8R2?qs=DRkmTr78QAQ8om1dPNOcdA%3D%3D
+https://app.ultralibrarian.com/details/56d692a3-05b5-11ec-9033-0a34d6323d74/Espressif-Systems/ESP32-PICO-MINI-02-N8R2?uid=117367805"
+,Digikey,445-9077-1-ND,CAP CER 22UF 10V X5R 0603,1,$0.34,1,$0.34,"- 22uF cap to decouple ESP32 module power
+- 0603 package",,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1A226M080AC/3661560,n/a
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,1,$0.10,"- 0.1uF cap to decouple ESP32 module power
+- 0402 package",,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,"- 10k resistor to slow down ESP32 module power up 
+- 0402 package",,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a
+,Digikey,445-9086-1-ND,CAP CER 1UF 16V X6S 0402,1,$0.10,1,$0.10,"- 1uF cap to slow down ESP32 module power up
+- 0402 package",,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X6S1C105K050BC/3661565,n/a
+,Digikey,2449-CS1213AGF160CT-ND,SWITCH TACTILE SPST-NO 0.05A 50V,1,$0.40,1,$0.40,- pushbutton for ESP32 module boot option ,,https://www.digikey.com/en/products/detail/cit-relay-and-switch/CS1213AGF160/16607723,https://app.ultralibrarian.com/details/600608b2-d687-11ed-b159-0a34d6323d74/CIT-Relay-Switch/CS1213AGF260?exports=ThreeDModel&exports=Eagle&open=exports
+,Digikey,PPPC041LGBN-RC,CONN HDR 4POS 0.1 GOLD PCB R/A,1,$0.68,1,$0.68,- female 2.54mm pitch connector to connect to mouse,,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC041LGBN-RC/775937,https://octopart.com/pppc041lgbn-rc-sullins-270383
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+PCB,JLC PCB,n/a,PCB prototype:Y4-5162408A,5,$2.00,1,$2.00,"- solid and cheap PCB vendor
+- no issues so far, purple nice and deep purple",,https://jlcpcb.com/?_ga=2.135028465.1970803033.1675648070-692031392.1675094888,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,total cost:,$7.22,,,,
